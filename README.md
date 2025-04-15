@@ -21,7 +21,7 @@
 
 📫 Let's connect and grow together:
 - 📧 Email: mananaslamdev@gmail.com 
-- 💼 LinkedIn: [linkedin.com/in/manan-aslam](https://linkedin.com/in/manan-aslam)
+- 💼 LinkedIn: [linkedin.com/in/mananaslamdev](https://linkedin.com/in/mananaslamdev)
 - 🌐 Portfolio: https://thatguymanan.netlify.app
 
 ---
