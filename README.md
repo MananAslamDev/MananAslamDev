@@ -20,9 +20,9 @@
 📈 I’m actively seeking **internships**, **freelance projects**, and opportunities to grow in the tech industry.
 
 📫 Let's connect and grow together:
-- 📧 Email: mananaslam.dev@gmail.com *(update this if needed)*
+- 📧 Email: mananaslamdev@gmail.com 
 - 💼 LinkedIn: [linkedin.com/in/manan-aslam](https://linkedin.com/in/manan-aslam)
-- 🌐 Portfolio: *(Add your site here if available)*
+- 🌐 Portfolio: https://thatguymanan.netlify.app
 
 ---
 
