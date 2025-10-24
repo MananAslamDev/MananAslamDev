@@ -58,10 +58,4 @@
 </p>
 
 ---
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=MananAslamDev&icon=0&color=0" />
-</p>
-
----
 <p align="center"><i>🚀 Keep Building. Keep Learning. Keep Shipping.</i></p>
